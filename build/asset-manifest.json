@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b29f858.chunk.css",
+    "main.js": "/static/js/main.4ebc11cf.chunk.js",
+    "main.js.map": "/static/js/main.4ebc11cf.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.1f95b698.chunk.js": "/static/js/2.1f95b698.chunk.js",
+    "static/js/2.1f95b698.chunk.js.map": "/static/js/2.1f95b698.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ed7219fe1d625ada52ccd7e3bf7a5f0.js": "/precache-manifest.3ed7219fe1d625ada52ccd7e3bf7a5f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5b29f858.chunk.css.map": "/static/css/main.5b29f858.chunk.css.map",
+    "static/media/ok-logo.svg": "/static/media/ok-logo.86ffa05a.svg"
+  }
+}
